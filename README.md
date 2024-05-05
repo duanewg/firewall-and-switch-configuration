@@ -1,9 +1,8 @@
 <p align="center">
-<img src="https://place-hold.it/600x200" alt="Place Holder Image"/>
-<!-- <img src="assets/logo.svg" alt="Logo Text There" /> -->
+<img src="assets/firewall-logo.png" alt="Logo Text There" />
 </p>
 
-# Project Title
+# Network Infrastructure Modernization for NPO
 Installed a FortiGate firewall and a Netgear managed switch to secure and optimize the organization's network. This installation improved firewall protection and network administration, ensuring the organization's stable connectivity.
 
 ## Environments and Technologies Used
