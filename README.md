@@ -7,8 +7,8 @@ Installed a FortiGate firewall and a Netgear managed switch to secure and optimi
 
 ## Environments and Technologies Used
 
-- Netgear M4100-24G-POE+ Managed Switches 
 - FortiGate-60E Firewall
+- Netgear M4100-24G-POE+ Managed Switch
 
 ## Operating Systems Used
 
