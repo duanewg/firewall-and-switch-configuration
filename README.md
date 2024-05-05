@@ -18,12 +18,12 @@ Installed a FortiGate firewall and a Netgear managed switch to secure and optimi
 
 - Install switch and firewall in rack and perform firmware updates
 - Connect firewall to WAN device and switch
-- Access the firewall's web management interface by navigating to its default IP and comoplete the initial setup wizard
+- Access the firewall's web management interface by navigating to its default IP and complete the initial setup wizard
     - timezone
     - admin password
     - enable network interfaces
 - Configure WAN interface with settings from ISP
-- Confgiure LAN interface IP address range, subnet mask, default gateway, and DHCP server
+- Configure LAN interface IP address range, subnet mask, default gateway, and DHCP server
 - Configure security policies
     - Antivirus
     - Web Filter
